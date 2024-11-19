@@ -8,4 +8,4 @@ def test_add_function():
 def test_subtract_function():
     assert subtract(5, 2) == 3
     assert subtract(0, 0) == 0
-    assert subtract(5, 5) == 1
+    assert subtract(5, 5) == 0
